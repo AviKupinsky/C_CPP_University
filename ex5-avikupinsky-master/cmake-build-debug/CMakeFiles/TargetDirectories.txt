@@ -1,0 +1,3 @@
+/cygdrive/c/Users/aviku/CLionProjects/ex5-avikupinsky-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/aviku/CLionProjects/ex5-avikupinsky-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/aviku/CLionProjects/ex5-avikupinsky-master/cmake-build-debug/CMakeFiles/ex5_avikupinsky_master.dir

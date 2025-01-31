@@ -1,0 +1,50 @@
+#Fill in your runtime results in this file
+#You should replace each T with the corresponding value
+
+#These values correspond to the time it takes (in ns) to insert apartments100 to all data structures
+Stack = 44500
+AVL = 398300
+Unsorted set = 200
+
+#These values correspond to the time it takes (in ns) to insert apartments1000 to all data structures
+Stack = 490100
+AVL = 6410000
+Unsorted set = 300
+
+#These values correspond to the time it takes (in ns) to insert apartments10000 to all data structures
+Stack = 36652400
+AVL = 87278500
+Unsorted set = 400
+
+#These values correspond to the time it takes (in ns) to check if Apartment X is contained in using the general find function
+#the data structures initialized with apartments100
+Stack = 900
+AVL = 31200
+Unsorted set = 400
+
+#These values correspond to the time it takes (in ns) to check if Apartment X is contained in using the general find function
+#the data structures initialized with apartments1000
+Stack = 500
+AVL = 256000
+Unsorted set = 600
+
+#These values correspond to the time it takes (in ns) to check if Apartment X is contained in using the general find function
+#the data structures initialized with apartments10000
+Stack = 900
+AVL = 2526300
+Unsorted set = 500
+
+#These values correspond to the time it takes (in ns) to check if Apartment X is contained in using the unique find function
+#the data structures initialized with apartments100
+AVL = 10000
+Unsorted set = 400
+
+#These values correspond to the time it takes (in ns) to check if Apartment X is contained in using the unique find function
+#the data structures initialized with apartments1000
+AVL = 7400
+Unsorted set = 600
+
+#These values correspond to the time it takes (in ns) to check if Apartment X is contained in using the unique find function
+#the data structures initialized with apartments10000
+AVL = 12200
+Unsorted set = 500
